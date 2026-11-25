@@ -1,0 +1,6 @@
+../Library/protocols/onewire.c:4:9:ONEWIRE_Reset	1
+../Library/protocols/onewire.c:13:6:ONEWIRE_WriteOne	1
+../Library/protocols/onewire.c:21:6:ONEWIRE_WriteZero	1
+../Library/protocols/onewire.c:30:6:ONEWIRE_WriteByte	3
+../Library/protocols/onewire.c:41:9:ONEWIRE_ReadBit	1
+../Library/protocols/onewire.c:55:9:ONEWIRE_ReadByte	2
